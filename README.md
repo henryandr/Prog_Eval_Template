@@ -1,3 +1,3 @@
 # Bitácora
-Nombre del estudiante:
+Nombre del estudiante:  
 Id.:
